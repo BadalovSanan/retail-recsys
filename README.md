@@ -49,6 +49,8 @@ print("Path to dataset files:", path)
 | Date | Commit |
 |------|--------|
 | 14 July | Initializing the Project |
+| 15 July | Finished 01 EDA |
+| 15 July | Finished 02 Preprocessing |
 
 ## Link to other repositories i have
 - [My Student Pass/Fail ML Project](https://github.com/BadalovSanan/My-StudentPassFail-ML-Project)
