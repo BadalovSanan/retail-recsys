@@ -29,9 +29,7 @@ print("Path to dataset files:", path)
 ├── notebooks/
 │   ├── 01_eda.ipynb
 │   ├── 02_preprocessing.ipynb
-│   ├── 03_modeling_als.ipynb
-│   ├── 04_modeling_gru4rec.ipynb
-│   └── 05_evaluation_comparison.ipynb
+│   └── 03_modeling_als.ipynb
 ├── results/
 ├── README.md
 ├── .gitignore
@@ -51,6 +49,7 @@ print("Path to dataset files:", path)
 | 14 July | Initializing the Project |
 | 15 July | Finished 01 EDA |
 | 15 July | Finished 02 Preprocessing |
+| 15 July | Finished the Model and Evaluation |
 
 ## Link to other repositories i have
 - [My Student Pass/Fail ML Project](https://github.com/BadalovSanan/My-StudentPassFail-ML-Project)
